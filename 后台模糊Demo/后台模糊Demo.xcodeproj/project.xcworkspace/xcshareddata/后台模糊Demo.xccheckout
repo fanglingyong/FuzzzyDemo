@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7F6FB177-8E13-4B29-9603-8E7A9CEDC2DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>后台模糊Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1AA18800E13573C11793559046CD086A9554323</key>
+		<string>https://github.com/fanglingyong/FuzzzyDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>后台模糊Demo/后台模糊Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1AA18800E13573C11793559046CD086A9554323</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fanglingyong/FuzzzyDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1AA18800E13573C11793559046CD086A9554323</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1AA18800E13573C11793559046CD086A9554323</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FuzzzyDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
